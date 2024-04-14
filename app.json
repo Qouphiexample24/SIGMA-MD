@@ -1,7 +1,7 @@
 {
   "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
-  "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
+  "logo": "https://telegra.ph/file/afd4fcd71d5fff4cb5593.jpg",
   "keywords": [
     "nodejs",
     "bot",
@@ -18,7 +18,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "Qouphi example"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -59,10 +59,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "233503744057"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
+      "value": "14_04_2024_SIGMA_MD_fNcnvaWu_MAHER_ZUBAIR"
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -71,7 +72,7 @@
     },
     "MONGODB_URI": {
       "description": "Add Your Own MongoDb Key, Its a DataBase For Bot, Your Bot Will Not Run Without MongoDb Url",
-      "value": ""
+      "value": "mongodb+srv://gboadi117:0241512315gideon@cluster0.4mycjly.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "WORKTYPE": {
       "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
@@ -98,7 +99,7 @@
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "qouphi-bot"
     }
   },
   "addons": [
