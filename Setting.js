@@ -76,8 +76,8 @@ module.exports = {
 
   //==============================[COMPULSORY]=====================================
   sessionName: process.env.SESSION_ID || '14_04_2024_SIGMA_MD_FceGX5Sg_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
-  botname: process.env.BOT_NAME       || 'qouphi-bot,         // ADD YOUR BOT NAME
-  ownername:  process.env.OWNER_NAME  || `qouphi Example `, // ADD YOUR NAME
+  botname: process.env.BOT_NAME       || 'qouphi-bot',         // ADD YOUR BOT NAME
+  ownername:  process.env.OWNER_NAME  || `qouphi Example`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
   WORKTYPE: process.env.WORKTYPE      || 'public',      // IF PRIVATE ONLY YOU CAN USE YOUR BOT, IF PUBLIC EVERYONE CAN USE YOUR BOT
   //================================================================================
